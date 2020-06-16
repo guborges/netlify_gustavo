@@ -1,17 +1,17 @@
 module.exports = {
   title: 'Dev Blog', // Required
   author: 'Gustavo Borges', // Required
-  description: 'Full-stack Web Developer',
+  description: 'Menino Bruto',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'www.google.com',
+    github: 'www.google.com',
+    twitter: 'www.google.com',
+    linkedin: 'www.google.com',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'www.google.com',
 };
